@@ -1,0 +1,4 @@
+"0","library(tidyverse)"
+"0","data <- readr::read_rds(""data/nba_2017_stats.Rds"")"
+"2","Error in gzfile(file, ""rb"") : cannot open the connection
+"

@@ -1,0 +1,4 @@
+"0","data_analysis <- data_z %>%"
+"0","  mutate(mdist = mh, player=data$player, team=data$team) %>%"
+"0","  select(player, team, mdist, everything()) %>%"
+"0","  arrange(desc(mdist))"
