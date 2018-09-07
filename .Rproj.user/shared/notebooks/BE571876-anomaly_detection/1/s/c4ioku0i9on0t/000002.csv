@@ -1,2 +1,0 @@
-"0","# for chunk dir to be set to root dir (and not script location)"
-"0","knitr::opts_knit$set(root.dir = here::here())"
