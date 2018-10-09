@@ -25,7 +25,8 @@ WRITE <- FALSE
 #' 2017-2018 season. 
 
 # url w/2017-2018 stats
-nba_url <- "https://stats.nba.com/players/traditional"
+#nba_url <- "https://stats.nba.com/players/traditional"
+nba_url <- "https://stats.nba.com/players/traditional/?sort=PTS&dir=-1&Season=2017-18&SeasonType=Regular%20Season"
 
 #' ## starting `Selenium`
 #' 
